@@ -16,7 +16,7 @@
   to run script:
   <br/>
   <br/>
-    python xpm2txt.py -f <input xpm file> -o <output txt file>
+    python xpm2txt.py -f < input xpm file > -o < output txt file >
  
   </p>
 </p>

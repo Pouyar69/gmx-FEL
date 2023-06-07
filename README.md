@@ -15,7 +15,7 @@
   <h4> Usage </h4>
   to run script:
   ```sh
-python xpm2txt.py -f <input xpm file> -o <output txt file>
+    python xpm2txt.py -f <input xpm file> -o <output txt file>
   ```
   </p>
 </p>
